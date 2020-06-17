@@ -1,0 +1,13 @@
+num:82	re_ave:401.63	re_var:16.31
+re_low:370.31	re_high:446.47
+level:
+[330,340]:	num:2	percent:0.02
+[340,350]:	num:3	percent:0.04
+[350,360]:	num:14	percent:0.17
+[360,370]:	num:21	percent:0.26
+[370,380]:	num:19	percent:0.23
+[380,390]:	num:13	percent:0.16
+[390,400]:	num:4	percent:0.05
+[400,410]:	num:4	percent:0.05
+[410,420]:	num:2	percent:0.02
+exp_low:385.32	exp_high:417.94

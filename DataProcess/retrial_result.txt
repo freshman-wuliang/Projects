@@ -1,0 +1,14 @@
+num:174	average:361.77	varience:16.90
+level:
+[330,340]	num:15	percent:0.09
+[340,350]	num:28	percent:0.16
+[350,360]	num:43	percent:0.25
+[360,370]	num:37	percent:0.21
+[370,380]	num:27	percent:0.16
+[380,390]	num:14	percent:0.08
+[390,400]	num:4	percent:0.02
+[400,410]	num:4	percent:0.02
+[410,420]	num:2	percent:0.01
+
+expect low:344.87	expect high:378.67
+line:335	exp_num:73	ratio: (1.0:2.38)
